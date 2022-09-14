@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS cookbook_db;
+
+CREAT DATABASE cookbook_db;
