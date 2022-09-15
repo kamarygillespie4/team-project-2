@@ -10,6 +10,11 @@
     color: #F2B443;
 }
 
-.food-background {
+/* .food-background {
     background-size: auto;
+} */
+
+body {
+    background-image: url('/public/images/cookbook-background.jpg');
+    background-size: cover;
 }
