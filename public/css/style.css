@@ -1,0 +1,15 @@
+.d-flex {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.navbar {
+    height: 100px;
+    background-color: #8c1c04;
+    color: #F2B443;
+}
+
+.food-background {
+    background-size: auto;
+}
