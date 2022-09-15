@@ -1,5 +1,11 @@
 const router = require("express").Router();
+const express = require("express");
+// const port = 3001;
 const axios = require("axios");
+const app = express();
+const { DailyRecipe } = require("../../models");
+
+let todayApiDailyRecipe;
 
 const options = {
   method: "GET",
@@ -13,10 +19,21 @@ const options = {
 axios
   .request(options)
   .then(function (response) {
-    console.log(response.data);
+    todayApiDailyRecipe = response.data.meals[0];
+    console.log(todayApiDailyRecipe);
+    router.post("/", async (req, res) => {
+      try {
+        // take dailyRecipe object and post to database
+        const dbRecipe = await DailyRecipe.create({});
+      } catch (err) {
+        console.log(err);
+      }
+    });
   })
   .catch(function (error) {
     console.error(error);
   });
+
+console.log(this);
 
 module.exports = router;
