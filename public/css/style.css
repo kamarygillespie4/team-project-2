@@ -43,3 +43,7 @@ main {
     margin: 20px;
 }
 
+.navItems {
+    position: absolute;
+    right: 30px;
+}
