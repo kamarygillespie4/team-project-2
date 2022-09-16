@@ -1,42 +1,42 @@
 .d-flex {
-    position: absolute;
-    right: 20px;
-    top: 20px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
 }
 
 .navbar {
-    height: 100px;
-    background-color: #8c1c04;
-    color: #F2B443;
+  height: 100px;
+  background-color: #8c1c04;
+  color: #f2b443;
 }
 
 .food-background {
-    background-size: auto;
+  background-size: auto;
 }
 
 main {
-    /* background-image: url('/public/images/cookbook-background.jpg');
-    background-size: cover; */
+  background-image: url("/public/images/cookbook-background.jpg");
+  background-size: cover;
 }
 
-.featuredRecipe, .dbRecipes {
-    position: relative;
-    top: -650px;
-    left: 10%;
-    width: 80%;
-    background-color: aliceblue;
-    display: flex;
-    margin-bottom: 10px;
+.featuredRecipe,
+.dbRecipes {
+  position: relative;
+  top: -650px;
+  left: 10%;
+  width: 80%;
+  background-color: aliceblue;
+  display: flex;
+  margin-bottom: 10px;
 }
 
 .recipe-form {
-    position: relative;
-    top: -900px;
-    left: 400px;
-    width: 600px;
-    border: 15px solid green;
-    background-color: orange;
-    padding: 50px;
-    margin: 20px;
+  position: relative;
+  top: -900px;
+  left: 400px;
+  width: 600px;
+  border: 15px solid green;
+  background-color: orange;
+  padding: 50px;
+  margin: 20px;
 }
-
