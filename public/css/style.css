@@ -1,49 +1,50 @@
 .d-flex {
-    position: absolute;
-    right: 20px;
-    top: 20px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
 }
 
 .navbar {
-    height: 100px;
-    background-color: #8c1c04;
-    color: #F2B443;
+  height: 100px;
+  background-color: #8c1c04;
+  color: #f2b443;
 }
 
 main {
-    background-image: url('../images/cookbook-background.jpg');
-    background-size: cover;
-    height: 100vh;
-    /* background-attachment: fixed; */
+  background-image: url("../images/cookbook-background.jpg");
+  background-size: cover;
+  height: 100vh;
+  /* background-attachment: fixed; */
 }
 
-.featuredRecipe, .dbRecipes {
-    position: relative;
-    top: 20px;
-    left: 10%;
-    width: 80%;
-    background-color: aliceblue;
-    display: flex;
-    margin-bottom: 15px;
+.featuredRecipe,
+.dbRecipes {
+  position: relative;
+  top: 20px;
+  left: 10%;
+  width: 80%;
+  background-color: aliceblue;
+  display: flex;
+  margin-bottom: 15px;
 }
 
 .dbRecipe {
-    width: 33%;
-    flex-wrap: wrap;
+  width: 33%;
+  flex-wrap: wrap;
 }
 
 .recipe-form {
-    position: relative;
-    top: -900px;
-    left: 400px;
-    width: 600px;
-    border: 15px solid green;
-    background-color: orange;
-    padding: 50px;
-    margin: 20px;
+  position: relative;
+  top: -900px;
+  left: 400px;
+  width: 600px;
+  border: 15px solid green;
+  background-color: orange;
+  padding: 50px;
+  margin: 20px;
 }
 
 .navItems {
-    position: absolute;
-    right: 30px;
+  position: absolute;
+  right: 30px;
 }
