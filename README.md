@@ -15,11 +15,12 @@ This application can be used to save recipies. By clicking the 'add new recipe' 
   ## Usage
   In order to use this application, the user will need to log in. From here, the can create reciepes to be saved and view all their previously save recipies. They can also the view the recipie of the day, save it if they want. 
   ## Contribution
-[David Healy's Github](https://github.com/dhealy83)
-[Jordan Laczkowski's Github](https://github.com/JordanLaczkowski)
-[Tyler Linch's Github](https://github.com/tjlinch)
-[Tony Santo's Github](https://github.com/tonymsanto)
-[Kamary Gillespie's Github](https://github.com/kamarygillespie43)
+  This project was created by:
+#### [David Healy](https://github.com/dhealy83)
+#### [Jordan Laczkowski](https://github.com/JordanLaczkowski)
+#### [Tyler Linch](https://github.com/tjlinch)
+#### [Tony Santo](https://github.com/tonymsanto)
+#### [Kamary Gillespie](https://github.com/kamarygillespie43)
   ## Testing
   This application has no testing.
   ## Licensing
