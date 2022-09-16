@@ -10,18 +10,16 @@
     color: #F2B443;
 }
 
-.food-background {
-    background-size: auto;
-}
-
 main {
-    /* background-image: url('/public/images/cookbook-background.jpg');
-    background-size: cover; */
+    background-image: url('../images/cookbook-background.jpg');
+    background-size: cover;
+    height: 100vh;
+    /* background-attachment: fixed; */
 }
 
 .featuredRecipe, .dbRecipes {
     position: relative;
-    top: -650px;
+    /* top: -650px; */
     left: 10%;
     width: 80%;
     background-color: aliceblue;
