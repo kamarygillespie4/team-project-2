@@ -5,18 +5,22 @@
             <h3>
                 <a href="#">{{recipe.title}}</a>
             </h3>
-            <h1 class="instructions">
+            <h4 class="instructions">
                 <a href="#">{{recipe.instructions}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient1}}</a>
-            </h1>
+            </h4>
+            {{#each recipe.ingredients as |ingredient|}}
+            <h5>
+                <a href="#"> {{ingredient}}</a>
+            </h5>
+        {{/each}}
+          
             <p>Shared by 'Username Here'</p>
         </div>
         <div class="card-body">
             Dish Description Here
         </div>
     </article>
+
     {{/each}}
     <section>
         Daily Recipe
