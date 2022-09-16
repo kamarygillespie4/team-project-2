@@ -5,73 +5,15 @@
             <h3>
                 <a href="#">{{recipe.title}}</a>
             </h3>
-            <h1 class="instructions">
+            <h4 class="instructions">
                 <a href="#">{{recipe.instructions}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient1}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient2}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient3}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient4}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient5}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient6}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient7}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient8}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient9}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient10}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient11}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient1}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient12}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient12}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient14}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient15}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient16}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient17}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient18}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient19}}</a>
-            </h1>
-            <h1>
-                <a href="#"> 1. {{recipe.strIngredient20}}</a>
-            </h1>
-            
+            </h4>
+            {{#each recipe.ingredients as |ingredient|}}
+            <h5>
+                <a href="#"> {{ingredient}}</a>
+            </h5>
+        {{/each}}
+          
             <p>Shared by 'Username Here'</p>
         </div>
         <div class="card-body">
