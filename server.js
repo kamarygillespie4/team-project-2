@@ -19,7 +19,7 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use(routes);
 
 // app.use(require("./controllers/"));
-
+// Reset this to false before you put it into production.
 sequelize.sync({ force: false }).then(() => {
   app.listen(PORT, () => console.log("Now listening"));
 });
