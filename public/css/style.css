@@ -11,11 +11,10 @@
 }
 
 .food-background {
-
     background-size: auto;
 }
 
-body {
+main {
     /* background-image: url('/public/images/cookbook-background.jpg');
     background-size: cover; */
 }
@@ -26,15 +25,9 @@ body {
     left: 10%;
     width: 80%;
     background-color: aliceblue;
-}
-
     display: flex;
+    margin-bottom: 10px;
 }
-
-/* body {
-    background-image: url('/public/images/cookbook-background.jpg');
-    background-size: cover;
-} */
 
 .recipe-form {
     position: relative;
