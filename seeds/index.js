@@ -1,24 +1,35 @@
 // TODO: make sure dependecies are needed/in here
-const { Dish } = require("../models");
+const { Dish, Recipe } = require("../models");
 
-const dishData = [
-  {
-    data_name: "",
-  },
-  {
-    data_name: "",
-  },
-  {
-    data_name: "",
-  },
-  {
-    data_name: "",
-  },
-  {
-    data_name: "",
-  },
-];
+const sequelize = require("../config/connection");
+const recipeSeeds = require("./recipe.data.json");
 
-const seedDish = () => Dish.bulkCreate(dishData);
+const seedAll = async () => {
+  await sequelize.sync({ force: true });
+  await Recipe.bulkCreate(recipeSeeds);
+  process.exit(0);
+};
 
-module.exports = seedDish;
+seedAll();
+
+// const dishData = [
+//   {
+//     data_name: "",
+//   },
+//   {
+//     data_name: "",
+//   },
+//   {
+//     data_name: "",
+//   },
+//   {
+//     data_name: "",
+//   },
+//   {
+//     data_name: "",
+//   },
+// ];
+
+// const seedDish = () => Dish.bulkCreate(dishData);
+
+// module.exports = seedDish;
