@@ -17,14 +17,14 @@ const options = {
   },
 };
 
-axios
-  .request(options)
-  .then(function (response) {
-    console.log(response.data);
-  })
-  .catch(function (error) {
-    console.error(error);
-  });
+// axios
+//   .request(options)
+//   .then(function (response) {
+//     console.log(response.data);
+//   })
+//   .catch(function (error) {
+//     console.error(error);
+//   });
 
 // axios.request(options).then(async function (response) {
 //   for (let i = 0; i < response.data.meals.length; i++) {
@@ -118,15 +118,14 @@ axios
 //           " " +
 //           todayApiDailyRecipe.strIngredient20,
 //       });
+//       if (!dbRecipe) {
+//         res.status(404).json({ message: "No API data found." });
+//       }
 //     } catch (err) {
 //       console.log(err);
 //     }
 //   }
 // });
-
-//   .catch(function (error) {
-//     console.error(error);
-//   });
 
 console.log(this);
 
