@@ -19,12 +19,17 @@ main {
 
 .featuredRecipe, .dbRecipes {
     position: relative;
-    /* top: -650px; */
+    top: 20px;
     left: 10%;
     width: 80%;
     background-color: aliceblue;
     display: flex;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.dbRecipe {
+    width: 33%;
+    flex-wrap: wrap;
 }
 
 .recipe-form {
