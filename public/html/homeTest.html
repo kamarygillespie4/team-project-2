@@ -4,11 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>5 Cooks Cookbook</title>
-    <link rel="stylesheet" type="text/css" href="../css/style.css" />
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     />
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
   </head>
 
   <body>
@@ -26,7 +27,7 @@
         >
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navItems" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="#">Home</a>
@@ -56,7 +57,11 @@
                 </li>
               </ul>
             </li>
+            <li class="nav-item">
+              <button class="newRecipeBtn">Add a New Recipe</button>
+            </li>
           </ul>
+
           <form class="d-flex" role="search">
             <input
               class="form-control"
@@ -68,11 +73,18 @@
               Add New Recipe
             </button>
           </form>
+
+          <!--<form class="d-flex" role="search">
+            <input class="form-control" type="search" placeholder="New Recipe" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit"> Add New Recipe</button>
+          </form>-->
+
         </div>
       </div>
     </nav>
 
     <main>
+
       <div id="food-background" class="food-background">
         <img
           src="../images/cookbook-background.jpg"
@@ -81,6 +93,11 @@
           class=""
         />
       </div>
+
+      <!-- <div id="food-background" class="food-background">
+        <img src="../images/cookbook-background.jpg" class="img-fluid" alt="...">
+      </div> -->
+
 
       <div class="media featuredRecipe">
         <img src="..." class="align-self-start mr-3" alt="..." />

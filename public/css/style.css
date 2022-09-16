@@ -10,31 +10,27 @@
     color: #F2B443;
 }
 
-.food-background {
-
-    background-size: auto;
-}
-
-body {
-    /* background-image: url('/public/images/cookbook-background.jpg');
-    background-size: cover; */
+main {
+    background-image: url('../images/cookbook-background.jpg');
+    background-size: cover;
+    height: 100vh;
+    /* background-attachment: fixed; */
 }
 
 .featuredRecipe, .dbRecipes {
     position: relative;
-    top: -650px;
+    top: 20px;
     left: 10%;
     width: 80%;
     background-color: aliceblue;
-}
-
     display: flex;
+    margin-bottom: 15px;
 }
 
-/* body {
-    background-image: url('/public/images/cookbook-background.jpg');
-    background-size: cover;
-} */
+.dbRecipe {
+    width: 33%;
+    flex-wrap: wrap;
+}
 
 .recipe-form {
     position: relative;
@@ -47,3 +43,7 @@ body {
     margin: 20px;
 }
 
+.navItems {
+    position: absolute;
+    right: 30px;
+}
