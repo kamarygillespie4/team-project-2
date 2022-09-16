@@ -7,9 +7,24 @@ const { Recipe } = require("../../models");
 const { restart } = require("nodemon");
 
 let todayApiDailyRecipe;
-process.env.DB_NAME,
-    process.env.DB_USER,
-    process.env.DB_PASSWORD
+
+const options = {
+  method: "GET",
+  url: "https://themealdb.p.rapidapi.com/randomselection.php",
+  headers: {
+    "X-RapidAPI-Key": "8bf19e1dc7msh6d202f14445b47dp11f059jsncde1469bfcfb",
+    "X-RapidAPI-Host": "themealdb.p.rapidapi.com",
+  },
+};
+
+// axios
+//   .request(options)
+//   .then(function (response) {
+//     console.log(response.data);
+//   })
+//   .catch(function (error) {
+//     console.error(error);
+//   });
 
 // axios.request(options).then(async function (response) {
 //   for (let i = 0; i < response.data.meals.length; i++) {
@@ -103,15 +118,14 @@ process.env.DB_NAME,
 //           " " +
 //           todayApiDailyRecipe.strIngredient20,
 //       });
+//       if (!dbRecipe) {
+//         res.status(404).json({ message: "No API data found." });
+//       }
 //     } catch (err) {
 //       console.log(err);
 //     }
 //   }
 // });
-
-//   .catch(function (error) {
-//     console.error(error);
-//   });
 
 console.log(this);
 
