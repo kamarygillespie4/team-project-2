@@ -20,7 +20,7 @@ main {
 .featuredRecipe,
 .dbRecipes {
   position: relative;
-  top: 20px;
+  top: 40px;
   left: 10%;
   width: 80%;
   background-color: aliceblue;
@@ -35,9 +35,11 @@ main {
 
 .recipe-form {
   position: relative;
+  top: 60px;
+  left: 13%;
   /* top: -900px;
   left: 400px; */
-  width: 600px;
+  width: 70%;
   border: 15px solid green;
   background-color: orange;
   padding: 50px;
@@ -47,4 +49,15 @@ main {
 .navItems {
   position: absolute;
   right: 30px;
+}
+
+.loginContainer {
+  display: flex;
+  position: relative;
+  top: 60px;
+}
+
+.loginCard {
+  /* display: flex; */
+  width: 50%;
 }
