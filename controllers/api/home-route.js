@@ -9,7 +9,7 @@ router.get("/newRecipe", async (req, res) => {
   res.render("new-recipe");
 });
 
-router.get("/recipes", async (req, res) => {
+router.get("/Recipes", async (req, res) => {
   try {
     const allRecipe = await Recipe.findAll();
     const recipes = allRecipe.map((recipe) => {
