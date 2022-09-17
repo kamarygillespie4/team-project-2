@@ -1,6 +1,10 @@
 const router = require("express").Router();
 const { Recipe } = require("../../models");
 
+router.get("/login", async (req, res) => {
+  res.render("login");
+});
+
 router.get("/recipes", async (req, res) => {
   try {
     const allRecipe = await Recipe.findAll();

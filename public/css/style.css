@@ -44,7 +44,7 @@ main {
   margin: 20px;
 }
 
-.navItems {
+.nav-item {
   position: absolute;
   right: 30px;
 }
