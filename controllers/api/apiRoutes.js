@@ -36,6 +36,7 @@ const options = {
 //       console.log(todayApiDailyRecipe.strInstructions);
 //       const dbRecipe = await Recipe.create({
 //         title: todayApiDailyRecipe.strMeal,
+//         image: todayApiDailyRecipe.strMealThumb,
 //         instructions: JSON.stringify(todayApiDailyRecipe.strInstructions),
 //         strIngredient1:
 //           todayApiDailyRecipe.strMeasure1 +

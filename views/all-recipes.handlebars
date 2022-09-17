@@ -5,6 +5,9 @@
             <h3>
                 <a href="#">{{recipe.title}}</a>
             </h3>
+            <picture>
+            <img src='{{recipe.image}}'alt= '{{recipe.title}}' class="recipeImage">
+            </picture>
             <h4 class="instructions">
                 <a href="#">{{recipe.instructions}}</a>
             </h4>
@@ -12,7 +15,7 @@
             <h5>
                 <a href="#"> {{ingredient}}</a>
             </h5>
-        {{/each}}
+            {{/each}}
           
             <p>Shared by 'Username Here'</p>
         </div>

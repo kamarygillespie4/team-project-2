@@ -11,6 +11,9 @@ Recipe.init(
     title: {
       type: DataTypes.STRING,
     },
+    image: {
+      type: DataTypes.STRING,
+    },
     strIngredient1: {
       type: DataTypes.STRING(500),
       allowNull: true,
