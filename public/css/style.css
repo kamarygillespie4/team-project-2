@@ -35,8 +35,8 @@ main {
 
 .recipe-form {
   position: relative;
-  top: -900px;
-  left: 400px;
+  /* top: -900px;
+  left: 400px; */
   width: 600px;
   border: 15px solid green;
   background-color: orange;

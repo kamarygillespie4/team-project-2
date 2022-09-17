@@ -5,6 +5,10 @@ router.get("/login", async (req, res) => {
   res.render("login");
 });
 
+router.get("/newRecipe", async (req, res) => {
+  res.render("new-recipe");
+});
+
 router.get("/recipes", async (req, res) => {
   try {
     const allRecipe = await Recipe.findAll();
