@@ -30,6 +30,7 @@ router.get("/Recipes", async (req, res) => {
         cook_time: recipe.cook_time,
         instructions: recipe.instructions,
         ingredients,
+        image: recipe.image, //RETURN THAT SHIT!!!
       };
     });
     console.log("===================");
