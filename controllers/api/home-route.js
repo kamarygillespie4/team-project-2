@@ -9,6 +9,23 @@ router.get("/newRecipe", async (req, res) => {
   res.render("new-recipe");
 });
 
+// TODO:Trying ti get one meal to out into the dailyRecipe section on the home page.
+// router.get("/:id", async (req, res) => {
+//   // Find a single recipe.
+//   try {
+//     const dailyRecipe = await Recipe.findOne({
+//       where: {
+//         id: req.params.id,
+//       },
+//       include: [title, image, instructions],
+//     });
+//     console.log(dailyRecipe);
+//     res.status(200).json(dailyRecipe);
+//   } catch (err) {
+//     res.status(400).json(err);
+//   }
+// });
+
 router.get("/Recipes", async (req, res) => {
   try {
     const allRecipe = await Recipe.findAll();
