@@ -2,7 +2,7 @@
 const { Dish, Recipe } = require("../models");
 
 const sequelize = require("../config/connection");
-const recipeSeeds = require("./recipe.data.json");
+const recipeSeeds = require("./recipes.data.json");
 
 const seedAll = async () => {
   await sequelize.sync({ force: true });
