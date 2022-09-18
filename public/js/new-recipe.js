@@ -7,7 +7,19 @@ const newRecipeHandler = async (event) => {
     const cookTime = document.getElementById('exampleInputCook').value;
 
     const ingredientsArr = ingredients.split(';');
-
+    let strIngredient1 = ingredientsArr[0];
+    if (!ingredientsArr[0]) {
+        let strIngredient1 = '';
+    };
+    let strIngredient2 = ingredientsArr[1];
+    if (!ingredientsArr[1]) {
+        let strIngredient2 = '';
+    };
+    let strIngredient3 = ingredientsArr[2];
+    if (!ingredientsArr[2]) {
+        let strIngredient3 = '';
+    };
+    
     console.log(title);
     console.log(ingredientsArr);
     console.log(instructions);
