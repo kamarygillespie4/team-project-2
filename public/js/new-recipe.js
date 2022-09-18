@@ -7,6 +7,12 @@ const newRecipeHandler = async (event) => {
     const instructions = document.getElementById('exampleInputInstructions').value;
     const cookTime = document.getElementById('exampleInputCook').value;
 
+    console.log(title);
+    console.log(ingredients);
+    console.log(measurements);
+    console.log(instructions);
+    console.log(cookTime);
+
 };
 
 document
