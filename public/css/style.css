@@ -1,9 +1,18 @@
-
+html,
 body {
-  scroll-behavior: none;
+  margin: 0;
+  padding: 0;
+  height: 100vh - 76px;
+  display: flex;
+  flex-direction: column;
+  overscroll-behavior: none;
+}
+html {
+  box-sizing: border-box;
 }
 
-.d-flex {
+
+  .d-flex {
   position: absolute;
   right: 20px;
   top: 20px;
@@ -18,13 +27,15 @@ body {
 main {
   background-image: url("../images/cookbook-background.jpg");
   background-size: cover;
-  height: 100vh;
+  height: 100%;
   width: 100%;
   background-attachment: fixed;
   background-repeat: no-repeat;
-
   background-size: cover;
+}
 
+.recipes {
+  margin-top: 76px;
 }
 
 .featuredRecipe,
