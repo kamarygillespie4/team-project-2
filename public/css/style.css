@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  height: 100 - 76px;
+  height: 100vh - 76px;
   display: flex;
   flex-direction: column;
   overscroll-behavior: none;
@@ -18,9 +18,25 @@ html {
 }
 
 .navbar {
-  height: 100px;
-  background-color: #8c1c04;
+  height: 50px;
+  border-style: solid;
+  border-color: rgb(65, 65, 65);
+  border-width: 1px;
+  background-color: #a5a5a5;
   color: #f2b443;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  /*start ------------*/
+  width: [object Object]px; 
+  height: [object Object]px; 
+
+  box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+  -webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+  -moz-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+}
+
+.navButton {
+  margin-top: 5px;
 }
 
 main {
@@ -35,17 +51,51 @@ main {
 
 .dailyRecipe {
   position: relative;
-  margin-top: 76px;
+  /* margin-top: 76px; */
 }
 
-.recipes,
-.recipe-form,
-.loginContainer,
-.loginCard {
-  margin-top: 125px;
-  margin-bottom: 76px;
+.recipes {
+  margin-top: 76px;
+  margin-bottom: 15%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.recipe-form {
+  margin-top: 10%;
+  margin-bottom: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loginContainer {
+  position: relative;
+  margin-bottom: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loginCard {
+  position: relative;
+  margin: 25px;
+  width: [object Object]px; 
+	height: [object Object]px; 
+	background: #FFFFFF; 
+	border: solid #BDBDBD 1px; 
+	box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+	-webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+	-moz-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+}
+
+.recipeCard {
+	/*start ------------*/
+	width: [object Object]px; 
+	height: [object Object]px; 
+	background: #FFFFFF; 
+	border: solid #BDBDBD 1px; 
+	box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+	-webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+	-moz-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
 }
 
 .featuredRecipe,
@@ -79,5 +129,6 @@ main {
 }
 
 #navbarLogo {
-  height: 110px;
+  max-height: 110px;
+  padding-top: 25px;
 }
