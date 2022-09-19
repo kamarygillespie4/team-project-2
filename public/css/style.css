@@ -143,11 +143,11 @@ main {
 }
 
 .recipeImage {
-  height: 35vh;
+  height: 200px;
   width: auto;
 }
 
 .recipeImage:hover {
-  height: 60vh;
+  height: 600px;
   width: auto;
 }
