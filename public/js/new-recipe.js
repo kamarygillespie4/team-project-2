@@ -114,7 +114,8 @@ const newRecipeHandler = async (event) => {
             strIngredient18,
             strIngredient19,
             strIngredient20,
-            instructions, 
+            instructions,
+            cookTime, 
         }),
         headers: { 'Content-Type': 'application/json'},
     });

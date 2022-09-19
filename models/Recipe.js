@@ -118,7 +118,8 @@ Recipe.init(
       type: DataTypes.STRING(1500),
     },
     cook_time: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING(500),
+      allowNull: true,
     },
   },
   {
