@@ -10,7 +10,9 @@ router.post('/', withAuth, async ({body, session}, res) => {
         const cleanData = {
             instructions: body.instructions,
             title: body.title,
-            cook_time: body.cook
+            cook_time: body.cook,
+            image: body.image,
+
         
         }
         for (let i = 0; i < ingredientsArr.length; i++) {
