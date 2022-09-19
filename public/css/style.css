@@ -1,22 +1,14 @@
 html,
 body {
-<<<<<<< HEAD
-=======
-
->>>>>>> 6f2d6ca25b45463fa930d583aa3bf4295a6f7685
   margin: 0;
   padding: 0;
   height: 100 - 76px;
   display: flex;
   flex-direction: column;
   overscroll-behavior: none;
-<<<<<<< HEAD
 }
 html {
   box-sizing: border-box;
-=======
-
->>>>>>> 6f2d6ca25b45463fa930d583aa3bf4295a6f7685
 }
 
 html {
