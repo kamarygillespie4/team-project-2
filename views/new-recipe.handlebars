@@ -1,17 +1,17 @@
-<form class="recipe-form col-9 p-2">
+<form action="/post" method="POST" class="recipe-form col-9 p-2">
         <div class="form-group">
           <label for="exampleInputTitle">Recipe Title</label>
           <input
-            type="title"
+            name="title"
             class="form-control"
             id="exampleInputTitle"
             placeholder="Enter Recipe Title"
           />
         </div>
         <div class="form-group">
-          <label for="exampleInputIngredients">Ingredients (Seperate ingredients with a ';')</label>
+          <label for="exampleInputIngredients">Ingredients (Seperate ingredients with a ',')</label>
           <input
-            type="ingredients"
+            name="ingredients"
             class="form-control"
             id="exampleInputIngredients"
             placeholder="1/2 cup Butter"
@@ -19,7 +19,7 @@
           <div class="form-group">
               <label for="exampleInputInstructions">Instructions</label>
               <input
-                type="instructions"
+                name="instructions"
                 class="form-control"
                 id="exampleInputInstructions"
                 placeholder="Mix the dry ingredients"
@@ -28,7 +28,7 @@
         <div class="form-group">
           <label for="exampleInputCook">Cook Time</label>
           <input
-            type="cook"
+            name="cook"
             class="form-control"
             id="exampleInputCook"
             placeholder="Place in oven on 400 degrees for 16 minutes"
@@ -37,4 +37,4 @@
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
 
-      <script src="/js/new-recipe.js"></script>
+      {{!-- <script src="/js/new-recipe.js"></script> --}}

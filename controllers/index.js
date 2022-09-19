@@ -1,14 +1,17 @@
 const router = require("express").Router();
+
 const apiRoutes = require("./api");
 const dailyRecipe = require("./api/apiRoutes");
 const homeRoutes = require("./api/home-route");
 const express = require("express");
 const app = express();
+const postRoutes = require('./api/post-routes');
 
 // const app = express;
 
 router.use("/", homeRoutes);
 router.use("/api", apiRoutes);
+router.use("/post", postRoutes);
 
 router.get("/", async (req, res) => {
   res.render("all-recipes", { dailyRecipe });
