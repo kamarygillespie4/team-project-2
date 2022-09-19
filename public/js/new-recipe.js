@@ -1,7 +1,44 @@
+// import { Uploader } from "uploader";
+
+// const uploader = new Uploader({
+//     apiKey: "free"
+// });
+
+// const options = { 
+//     styles: {
+//         fontSizes: {
+//             base: 16
+//         }
+//     },
+//     editor: {
+//         images: {
+//             crop: true,
+//         }
+//     },
+//     maxFileCount: 1,
+//     maxFileSizeBytes: 5 * 1024 * 1024,
+//     multi: true,
+//     layout: "modal",
+//     container: "#imageUploader"
+
+//  }
+
+// uploader.open(options).then(files => {
+//     if (files.length === 0) {
+//         console.log('No files selected.')
+//     } else {
+//         console.log('Files uploaded:');
+//         console.log(files.map(f => f.fileUrl));
+//     }
+// }).catch(err => {
+//     console.error(err);
+// });
+
 const newRecipeHandler = async (event) => {
     event.preventDefault();
 
     const title = document.getElementById('exampleInputTitle').value;
+    const image = document.getElementById('exampleInputImage').value;
     const ingredients = document.getElementById('exampleInputIngredients').value;
     const instructions = document.getElementById('exampleInputInstructions').value;
     const cookTime = document.getElementById('exampleInputCook').value;
@@ -94,6 +131,7 @@ const newRecipeHandler = async (event) => {
         method: 'POST',
         body: JSON.stringify({
             title,
+            image,
             strIngredient1,
             strIngredient2,
             strIngredient3,

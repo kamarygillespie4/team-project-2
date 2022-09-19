@@ -9,6 +9,15 @@
           />
         </div>
         <div class="form-group">
+          <label for="exampleInputImage">Image url</label>
+          <input
+            name="image"
+            class="form-control"
+            id="exampleInputImage"
+            placeholder="Enter Image url"
+          />
+        </div>
+        <div class="form-group">
           <label for="exampleInputIngredients">Ingredients (Seperate ingredients with a ',')</label>
           <input
             name="ingredients"
@@ -33,8 +42,18 @@
             id="exampleInputCook"
             placeholder="Place in oven on 400 degrees for 16 minutes"
           />
-          <div class="form-group">DROP IMAGE HERE</div>
+          <div class="form-group" id="imageUploader">DROP IMAGE HERE</div>
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
-
+      {{!-- <script>
+async function uploadFile() {
+    let formData = new FormData();           
+    formData.append("file", fileupload.files[0]);
+    await fetch('/upload.php', {
+      method: "POST", 
+      body: formData
+    });    
+    alert('The file has been uploaded successfully.');
+}
+</script> --}}
       {{!-- <script src="/js/new-recipe.js"></script> --}}
