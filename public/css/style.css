@@ -17,7 +17,7 @@ html {
 
 .d-flex {
     position: absolute;
-    right: 20px;
+
     top: 20px;
 }
 
@@ -81,7 +81,7 @@ main {
 
 .loginContainer {
     position: relative;
-    margin-bottom: 25%;
+    margin-bottom: 38%;
     margin-left: auto;
     margin-right: auto;
 }
