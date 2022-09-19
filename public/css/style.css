@@ -1,11 +1,13 @@
 html,
 body {
-    margin: 0;
-    padding: 0;
-    height: 100vh - 76px;
-    display: flex;
-    flex-direction: column;
-    overscroll-behavior: none;
+
+  margin: 0;
+  padding: 0;
+  height: 100 - 76px;
+  display: flex;
+  flex-direction: column;
+  overscroll-behavior: none;
+
 }
 
 html {
@@ -50,8 +52,19 @@ main {
 }
 
 .dailyRecipe {
-    position: relative;
-    /* margin-top: 76px; */
+
+  position: relative;
+  margin-top: 10%;
+  margin-bottom: 28%;
+  /* width: [object Object]px; 
+	height: [object Object]px;  */
+	background: #FFFFFF; 
+	border: solid #BDBDBD 1px; 
+	box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+	-webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+	-moz-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+
+
 }
 
 .recipes {
