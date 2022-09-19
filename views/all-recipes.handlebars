@@ -11,20 +11,21 @@
             <picture>
             <img src='{{recipe.image}}' alt= '{{recipe.title}}' class="recipeImage">
             </picture>
-            <h4 class="instructions">
-                {{recipe.instructions}}
-            </h4>
             {{#each recipe.ingredients as |ingredient|}}
             <h5>
                {{ingredient}}
             </h5>
             {{/each}}
+            <h4 class="instructions">
+                {{recipe.instructions}}
+            </h4>
+            
           
             <p>Shared by 'Username Here'</p>
         </div>
-        <div class="card-body">
+        {{!-- <div class="card-body">
             Dish Description Here
-        </div>
+        </div> --}}
     </article>
 
     {{/each}}
