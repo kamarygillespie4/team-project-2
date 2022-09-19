@@ -90,7 +90,7 @@ const newRecipeHandler = async (event) => {
         strIngredient20 = '';
     };
     
-    await fetch(`/api/post`, {
+    await fetch(`/post`, {
         method: 'POST',
         body: JSON.stringify({
             title,
@@ -119,7 +119,7 @@ const newRecipeHandler = async (event) => {
         headers: { 'Content-Type': 'application/json'},
     });
 
-    document.location.replace('/Recipes');
+    // document.location.replace('/Recipes');
 };
 
 document
