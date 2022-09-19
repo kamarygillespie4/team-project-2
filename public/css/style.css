@@ -1,14 +1,22 @@
 html,
 body {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6f2d6ca25b45463fa930d583aa3bf4295a6f7685
   margin: 0;
   padding: 0;
   height: 100 - 76px;
   display: flex;
   flex-direction: column;
   overscroll-behavior: none;
+<<<<<<< HEAD
 }
 html {
   box-sizing: border-box;
+=======
+
+>>>>>>> 6f2d6ca25b45463fa930d583aa3bf4295a6f7685
 }
 
 html {
@@ -53,6 +61,10 @@ main {
 }
 
 .dailyRecipe {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6f2d6ca25b45463fa930d583aa3bf4295a6f7685
   position: relative;
   margin-top: 10%;
   margin-bottom: 28%;
@@ -63,6 +75,11 @@ main {
 	box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
 	-webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
 	-moz-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8)  ; 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 6f2d6ca25b45463fa930d583aa3bf4295a6f7685
 }
 
 .recipes {
