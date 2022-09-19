@@ -9,7 +9,11 @@ router.get("/newRecipe", async (req, res) => {
   res.render("new-recipe");
 });
 
-// TODO:Trying ti get one meal to out into the dailyRecipe section on the home page.
+router.get("/", async (req, res) => {
+  res.render("DailyRecipe");
+});
+
+// TODO:Trying to get one meal to out into the dailyRecipe section on the home page.
 // router.get("/:id", async (req, res) => {
 //   // Find a single recipe.
 //   try {
@@ -19,6 +23,11 @@ router.get("/newRecipe", async (req, res) => {
 //       },
 //       include: [title, image, instructions],
 //     });
+//     return {
+//       title: recipe.title,
+//       instructions: recipe.instructions,
+//       image: recipe.image,
+//     };
 //     console.log(dailyRecipe);
 //     res.status(200).json(dailyRecipe);
 //   } catch (err) {
