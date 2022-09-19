@@ -5,6 +5,7 @@ const newRecipeHandler = async (event) => {
     const ingredients = document.getElementById('exampleInputIngredients').value;
     const instructions = document.getElementById('exampleInputInstructions').value;
     const cookTime = document.getElementById('exampleInputCook').value;
+    // const image = 
 
     const ingredientsArr = ingredients.split(',');
     
@@ -89,14 +90,36 @@ const newRecipeHandler = async (event) => {
         strIngredient20 = '';
     };
     
-    console.log(title);
-    console.log(ingredientsArr);
-    console.log(strIngredient1);
-    console.log(strIngredient2);
-    console.log(strIngredient3);
-    console.log(instructions);
-    console.log(cookTime);
+    await fetch(`/api/post`, {
+        method: 'POST',
+        body: JSON.stringify({
+            title,
+            strIngredient1,
+            strIngredient2,
+            strIngredient3,
+            strIngredient4,
+            strIngredient5,
+            strIngredient6,
+            strIngredient7,
+            strIngredient8,
+            strIngredient9,
+            strIngredient10,
+            strIngredient11,
+            strIngredient12,
+            strIngredient13,
+            strIngredient14,
+            strIngredient15,
+            strIngredient16,
+            strIngredient17,
+            strIngredient18,
+            strIngredient19,
+            strIngredient20,
+            instructions, 
+        }),
+        headers: { 'Content-Type': 'application/json'},
+    });
 
+    document.location.replace('/Recipes');
 };
 
 document
