@@ -1,7 +1,14 @@
 # 5 Cooks in the Kitchen
 
+## Application Link
+
+[5 cooks cookbook](https://agile-shore-26692.herokuapp.com/)
+
 ## Description
+
 This application can be used to save recipies. By clicking the 'add new recipe' button, the user will be able to add and image of their food, a title, the ingredients needed, the instructions, as well as the total cook time (in minutes) of the meal. The webpage will also provide a random recipie that the user will be able to save. In order to view the users previously saved recipies, the can simply click on the button titled 'my recipies'. 
+
+![Deployed Application Screenshot](public/images/application.jpg)
 
 ## Table of Contents
   1. [Installation Instructions](#installation)
