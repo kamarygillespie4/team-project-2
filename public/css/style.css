@@ -58,6 +58,11 @@ html {
     overscroll-behavior-block: auto;
 } */
 
+.allRecipesHeader {
+    margin-top: 28%;
+    
+}
+
 .dailyRecipe {
     position: relative;
     margin-top: 10%;
@@ -108,7 +113,7 @@ html {
     /*start ------------*/
     width: [object Object]px;
     height: [object Object]px;
-    background: #999999;
+    background: #dadada;
     border: solid #bdbdbd 1px;
     box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
     -webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
@@ -170,7 +175,7 @@ html {
     /* Added */
     width: [object Object]px;
     height: [object Object]px;
-    background: #d3d3d3;
+    background: #dadada;
     border: solid #bdbdbd 1px;
     box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
     -webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
@@ -184,8 +189,8 @@ nav a {
 }
 
 #particles-js {
-    height: 100% !important;
-    width: 95%;
+    height: 98% !important;
+    width: 98%;
     position: absolute;
     margin: auto;
     z-index: 0;
@@ -194,4 +199,9 @@ nav a {
 
 .card-header {
     z-index: 1;
+}
+
+.title {
+    position: inherit;
+    z-index: 2;
 }
