@@ -162,8 +162,8 @@ html {
 }
 
 .recipeImage:hover {
-  height: 600px;
-  width: 600px;
+  height: auto;
+  width: 100%;
 }
 
 .drcard {
