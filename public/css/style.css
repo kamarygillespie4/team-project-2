@@ -18,9 +18,7 @@ html {
     box-sizing: border-box;
 }
 
-html {
-    box-sizing: border-box;
-}
+
 
 .d-flex {
     position: absolute;
@@ -112,7 +110,7 @@ html {
     /*start ------------*/
     width: [object Object]px;
     height: [object Object]px;
-    background: #ffffff;
+    background: #999999;
     border: solid #bdbdbd 1px;
     box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
     -webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
@@ -155,26 +153,46 @@ html {
 }
 
 .recipeImage {
-    height: 35vh;
-    width: auto;
+  height: 200px;
+  width: 200px;
 }
 
 .recipeImage:hover {
-    height: 60vh;
-    width: auto;
+  height: 600px;
+  width: 600px;
 }
 
 .drcard {
-    margin: 250px auto;
+    margin: 76px auto;
     /* Added */
     float: none;
     /* Added */
     margin-bottom: 10px;
     /* Added */
+    width: [object Object]px;
+    height: [object Object]px;
+    background: #999999;
+    border: solid #bdbdbd 1px;
+    box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: 16px 16px 23px rgba(0, 0, 0, 0.8);
 }
 
 nav a {
     font-size: large;
     margin: 5px;
     margin-left: 30px;
+}
+
+#particles-js {
+    height: 100% !important;
+    width: 95%;
+    position: absolute;
+    margin: auto;
+    z-index: 0;
+
+}
+
+.card-header {
+    z-index: 1;
 }
