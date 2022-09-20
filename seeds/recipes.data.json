@@ -24,10 +24,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients. Combine spice mix with flour, brown sugar and salt. Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces. Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit. Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F. Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 2,
@@ -54,10 +54,10 @@
 		"str_ingredient19" : "2 medium tomatoes",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Use pickled vine leaves here, preserved in brine. Small delicate leaves are better than the large bristly ones but, if only large leaves are to hand, then trim them to roughly 12 by 12 cms so that you don't get too many layers of leaves around the filling. And remove any stalks. Drain the preserved leaves, immerse them in boiling water for 10 minutes and then leave to dry on a tea towel before use.  Basmati rice with butter and pine nuts is an ideal accompaniment. Couscous is great, too. Serves four. First make the filling. Put all the ingredients, apart from the tomatoes, in a bowl. Cut the tomatoes in half, coarsely grate into the bowl and discard the skins. Add half a teaspoon of salt and some black pepper, and stir. Leave on the side, or in the fridge, for up to a day. Before using, gently squeeze with your hands and drain away any juices that come out. To make the sauce, heat the oil in a medium pan. Add the ginger and garlic, cook for a minute or two, taking care not to burn them, then add the tomato, lemon juice and sugar. Season, and simmer for 20 minutes. While the sauce is bubbling away, prepare the vine leaves. Use any torn or broken leaves to line the base of a wide, heavy saucepan. Trim any leaves from the fennel, cut it vertically into 0.5cm-thick slices and spread over the base of the pan to cover completely. Lay a prepared vine leaf (see intro) on a work surface, veiny side up. Put two teaspoons of filling at the base of the leaf in a 2cm-long ",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 3,
@@ -84,10 +84,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"For the rice, heat the oil in a large, lidded pan, add the onion, then gently fry for 5 mins until softened but not coloured. Add the spices, season with salt, then continue to fry until the mix start to go brown and fragrant; about 3 mins. Add the rice and stir in well. Add 600ml water, stir, then bring to the boil. Reduce to a simmer, then cover for 10 mins. Take off the heat and leave to stand, covered, for 10-15 mins more. The rice will be perfectly cooked if you do not lift the lid before the end of the cooking. Meanwhile, put the haddock and bay leaves in a frying pan, cover with the milk, then poach for 10 mins until the flesh flakes. Remove from the milk, peel away the skin, then flake the flesh into thumbsize pieces. Place the eggs in a pan, cover with water, bring to the boil, then reduce to a simmer. Leave for 4½-5 mins, plunge into cold water, then peel and cut the eggs into quarters. Gently mix the fish, eggs, parsley, coriander and rice together in the pan. Serve hot, sprinkled with a few extra herbs.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 4,
@@ -114,10 +114,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside. To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes. Then return the fried onion to the pot and stir. Add ginger paste and sauté well. Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir. Next goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes. Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat. When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well. Finally add the cream and give a final mix to combine everything well. Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 5,
@@ -144,10 +144,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"STEP 1 Remove the large piece of fat on the edge of each pork loin, then bash each of the loins between two pieces of baking parchment until around 1cm in thickness – you can do this using a meat tenderiser or a rolling pin. Once bashed, use your hands to reshape the meat to its original shape and thickness – this step will ensure the meat is as succulent as possible.  STEP 2 Put the flour, eggs and panko breadcrumbs into three separate wide-rimmed bowls. Season the meat, then dip first in the flour, followed by the eggs, then the breadcrumbs.  STEP 3 In a large frying or sauté pan, add enough oil to come 2cm up the side of the pan. Heat the oil to 180C – if you don’t have a thermometer, drop a bit of panko into the oil and if it sinks a little then starts to fry, the oil is ready. Add two pork chops and cook for 1 min 30 secs on each side, then remove and leave to rest on a wire rack for 5 mins. Repeat with the remaining pork chops.  STEP 4 While the pork is resting, make the sauce by whisking the ingredients together, adding a splash of water if it’s particularly thick. Slice the tonkatsu and serve drizzled with the sauce.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 6,
@@ -174,10 +174,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"Heat oven to 180C/160C fan/gas 4. Slice the tops off the tomatoes and reserve. Scoop out most of the pulp with a teaspoon, being careful not to break the skin. Finely chop the pulp, and keep any juices. Sprinkle the insides of the tomatoes with a little sugar to take away the acidity, then place them on a baking tray.  Heat 2 tbsp olive oil in a large frying pan, add the onion and garlic, then gently cook for about 10 mins until soft but not coloured. Add the lamb, cinnamon and tomato purée, turn up the heat, then fry until the meat is browned. Add the tomato pulp and juice, the rice and the stock. Season generously. Bring to the boil, then simmer for 15 mins or until the rice is tender and the liquid has been absorbed. Set aside to cool a little, then stir in the herbs.  Stuff the tomatoes up to the brim, top tomatoes with their lids, drizzle with 2 tbsp more olive oil, sprinkle 3 tbsp water into the tray, then bake for 35 mins. Serve with salad and crusty bread, hot or cold.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 7,
@@ -204,10 +204,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil. Cook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven. Snip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven. For the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy. For the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and se",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 8,
@@ -234,10 +234,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Heat oven to 140C/120C fan/gas 1. Put a large ovenproof pan (with a tight-fitting lid) on a high heat. Add your fat and diced meat, cook for a few mins to seal the edges, giving it a quick stir to cook evenly. Reduce the heat to low, add the sliced onion, whole garlic cloves, carrot and fennel seeds, and cook gently to soften the veg for a few mins. Pour over the red wine vinegar, scraping any meaty bits off the bottom of the pan. Add the stock, tomato purée, and half the rosemary and parsley. Bring to the boil and simmer for 10 mins, then season, cover with a lid and put into the oven for 2 hrs, removing the lid for the final hour of cooking. Stir occasionally and add the beans with 30 mins to go. Remove the pan from the oven and heat the grill. Scatter the top with the remaining herbs and breadcrumbs, drizzle a little oil over the top, and return to the oven for 5-10 mins, until the breadcrumbs are golden. Serve with crusty bread and green veg.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 9,
@@ -264,10 +264,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Pre-heat the oven to 180C/350F/Gas 4. Grease an 18cm/7in round cake tin, line the base with greaseproof paper and grease the paper. Cream the butter and sugar together in a bowl until pale and fluffy. Beat in the eggs, one at a time, beating the mixture well between each one and adding a tablespoon of the flour with the last egg to prevent the mixture curdling. Sift the flour and gently fold in, with enough milk to give a mixture that falls slowly from the spoon. Fold in the lemon zest. Spoon the mixture into the prepared tin and lightly level the top. Bake on the middle shelf of the oven for 30-40 minutes, or until golden-brown on top and a skewer inserted into the centre comes out clean. Remove from the oven and set aside to cool in the tin for 10 minutes, then turn it out on to a wire rack and leave to cool completely. To serve, decorate the cake with the candied peel.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 10,
@@ -292,12 +292,12 @@
 		"str_ingredient17" : "1 tsp  Baking Powder",
 		"str_ingredient18" : "60g Suet",
 		"str_ingredient19" : "Splash Water",
-		"str_ingredient20" : " null",
+		"str_ingredient20" : "1 hour",
 		"instructions" : "\"Preheat the oven to 180C/350F/Gas 4.  For the beef stew, heat the oil and butter in an ovenproof casserole and fry the beef until browned on all sides.  Sprinkle over the flour and cook for a further 2-3 minutes.  Add the garlic and all the vegetables and fry for 1-2 minutes.  Stir in the wine, stock and herbs, then add the Worcestershire sauce and balsamic vinegar, to taste. Season with salt and freshly ground black pepper.  Cover with a lid, transfer to the oven and cook for about two hours, or until the meat is tender.  For the dumplings, sift the flour, baking powder and salt into a bowl. Add the suet and enough water to form a thick dough.  With floured hands, roll spoonfuls of the dough into small balls.  After two hours, remove the lid from the stew and place the balls on top of the stew. Cover, return to the oven and cook for a further 20 minutes, or until the dumplings have swollen and are tender. (If you prefer your dumplings with a golden top, leave the lid off when returning to the oven.)  To serve, place a spoonful of mashed potato onto each of four serving plates and top with the stew and dumplings. Sprinkle with chopped parsley.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:56:35",
 		"updated_at" : "2022-09-18 14:56:35",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 11,
@@ -324,10 +324,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"1  Place corned beef in large pot or Dutch oven and cover with water. Add the spice packet that came with the corned beef. Cover pot and bring to a boil, then reduce to a simmer. Simmer approximately 50 minutes per pound or until tender.  2  Add whole potatoes and peeled and cut carrots, and cook until the vegetables are almost tender. Add cabbage and cook for 15 more minutes. Remove meat and let rest 15 minutes.  3  Place vegetables in a bowl and cover. Add as much broth (cooking liquid reserved in the Dutch oven or large pot) as you want. Slice meat across the grain.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 12,
@@ -354,10 +354,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"STEP 1 Heat the oil in a pan, fry the sliced onion until golden brown, then add the tonkatsu (see recipe here), placing it in the middle of the pan. Mix the dashi, soy, mirin and sugar together and tip three-quarters of the mixture around the tonkatsu. Sizzle for a couple of mins so the sauce thickens a little and the tonkatsu reheats.  STEP 2 Tip the beaten eggs around the tonkatsu and cook for 2-3 mins until the egg is cooked through but still a little runny. Divide the rice between two bowls, then top each with half the egg and tonkatsu mix, sprinkle over the chives and serve immediately, drizzling with a little more soy if you want an extra umami kick.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 13,
@@ -384,10 +384,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"Gather the ingredients.  In a large soup pot, bring water, split peas, pork belly or bacon, pork chop, and bouillon cube to a boil. Reduce the heat to a simmer, cover and let cook for 45 minutes, stirring occasionally and skimming off any foam that rises to the top.   Remove the pork chop, debone, and thinly slice the meat. Set aside.  Add the celery, carrots, potato, onion, leek, and celeriac to the soup. Return to the boil, reduce the heat to a simmer and let cook, uncovered, for another 30 minutes, adding a little extra water if the ingredients start to stick to the bottom of the pot.  Add the smoked sausage for the last 15 minutes of cooking time. When the vegetables are tender, remove the bacon and smoked sausage, slice thinly and set aside.  If you prefer a smooth consistency, purée the soup with a stick blender. Season to taste with salt and pepper. Add the meat back to the soup, setting some slices of rookworst aside.  Serve in heated bowls or soup plates, garnished with slices of rookworst and chopped celery leaf.  Enjoy!\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 14,
@@ -414,10 +414,10 @@
 		"str_ingredient19" : "1 tsp Apple Cider Vinegar",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Begin by roasting the squash. Slice it into thin crescents and drizzle with a little oil and sprinkle with sea salt. I added a fresh little sage I had in the fridge, but it’s unnecessary. Roast the squash a 205 C (400 F) for 20-30 minutes, flipping halfway through, until soft and golden. Let cool and chop into cubes. Meanwhile, rinse the lentils and cover them with water. Bring them to the boil then turn down to a simmer and let cook (uncovered) for 20-30 minutes, or until tender. Drain and set aside. While the lentils are cooking heat the 1 Tbsp. of oil on low in a medium pot. Add the onions and leeks and sauté for 5 or so minutes, or until they begin to soften. Add the garlic next along with the cumin and coriander, cooking for a few more minutes. Add the remaining spices – paprika, cinnamon, chilli, cocoa, Worcestershire sauce, salt, and oregano. Next add the can of tomatoes, the water or stock, and carrots. Let simmer, covered, for 20 minutes or until the veg is tender and the mixture has thickened up. You’ll need to check on the pot periodically for a stir and a top of of liquid if needed. Add the lentils and chopped roasted squash. Let cook for 10 more minutes to heat through. Serve with sliced jalapeno, lime wedges, cilantro, green onions, and cashew sour cream.  SIMPLE CASHEW SOUR CREAM  1 Cup Raw Unsalted Cashews Pinch Sea Salt 1 tsp. Apple Cider Vinegar Water  Bring some water to the boil, and use it to soak the cashews for at",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 15,
@@ -444,10 +444,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"Dissolve yeast in warm water in 2 1/2-quart bowl. Add milk, sugar, salt, eggs, shortening and 2 cups flour. Beat on low for 30 seconds, scraping bowl constantly. Beat on medium speed for 2 minutes, scraping bowl occasionally. Stir in remaining flour until smooth. Cover and let rise until double, 50-60 minutes. (Dough is ready when indentation remains when touched.) Turn dough onto floured surface; roll around lightly to coat with flour. Gently roll dough 1/2-inch thick with floured rolling pin. Cut with floured doughnut cutter. Cover and let rise until double, 30-40 minutes. Heat vegetable oil in deep fryer to 350°. Slide doughnuts into hot oil with wide spatula. Turn doughnuts as they rise to the surface. Fry until golden brown, about 1 minute on each side. Remove carefully from oil (do not prick surface); drain. Dip the doughnuts into creamy glaze set on rack.   Glaze:  Heat butter until melted. Remove from heat. Stir in powdered sugar and vanilla until smooth. Stir in water, 1 tablespoon at a time, until desired consistency.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 16,
@@ -474,10 +474,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"First, make the pastry. Tip the ingredients into a food processor with 1 /4 tsp salt. Blend until the mixture resembles breadcrumbs. Drizzle 2-3 tsp cold water into the funnel while the blade is running – the mixture should start to clump together. Tip onto a work surface and bring together, kneading briefly into a ball. Pat into a disc, wrap in cling film, and chill for at least 20 mins. Heat oven to 200C/180C fan/gas 6.  Remove the pastry from the fridge and leave at room temperature for 5 mins to soften. Flour the work surface, then unwrap the pastry and roll to a circle the thickness of a £1 coin. Use the pastry to line a deep, 23cm round fluted tin – mine was about 3cm deep. Press the pastry into the corners and up the sides, making sure there are no gaps. Leave 1cm pastry overhanging (save some of the pastry scraps for later). Line with baking parchment (scrunch it up first to make it more pliable) and fill with baking beans. Blind-bake for 15-20 mins until the sides are set, then remove the parchment and beans and return to the oven for 5 mins until golden brown. Trim the pastry so it’s flush with the top of the tin – a small serrated knife is best for this. If there are any cracks, patch them up with the pastry scraps.  Meanwhile, weigh the butter, syrup and sugars into a pan, and add 1 /4 tsp salt. Heat until the butter has melted and the sugar dissolved, stirring until smooth. Remove from the heat and cool for 10 mins. Reduce oven to 160C/140C fan/gas 3",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 17,
@@ -504,10 +504,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Core the pears, then peel as neatly as possible and halve. If you like, they can be prepared up to a day ahead and kept in the fridge, uncovered, so that they dry out. Tip the sugar, butter, star anise, cardamom and cinnamon into an ovenproof frying pan, about 20cm wide, and place over a high heat until bubbling. Shake the pan and stir the buttery sauce until it separates and the sugar caramelises to a toffee colour. Lay the pears in the pan, then cook in the sauce for 10-12 mins, tossing occasionally, until completely caramelised. Don’t worry about them burning – they won’t – but you want to caramelise them as much as possible. Splash in the brandy and let it flambé, then set the pears aside. Heat oven to 200C/fan 180C/gas 6. Roll the pastry out to the thickness of a £1 coin. Using a plate slightly larger than the top of the pan, cut out a circle, then press the edges of the circle of pastry to thin them out. When the pears have cooled slightly, arrange them in the pan, cut side up, in a floral shape, with the pears around the edge pointing inwards. Rest the cinnamon stick on the top in the centre, with the cardamom pods scattered around. Drape the pastry over the pears, then tuck the edges down the pan sides and under the fruit (see Gordon’s guide). Pierce the pastry a few times, then bake for 15 mins. If a lot of juice bubbles up the side of the pan, pour it off at this stage (see guide). Reduce oven to 180C/fan 160C/gas 4 and bake for 15 mins more until th",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 18,
@@ -534,10 +534,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Break the eggs into two bowls, five in each. Whisk lightly and season with salt and pepper. Heat the oil in a pan, add the courgettes and spring onions, then fry gently for about 10 mins until softened. Cool, then stir into one bowl of eggs with a little salt and pepper. Add the roasted peppers to the other bowl of eggs with the garlic, chilli, salt and pepper. Heat a little oil in a 20-23cm frying pan, preferably non-stick. Pour the eggs with courgette into a measuring jug, then pourabout one-third of the mixture into the pan, swirling it to cover the base of the pan. Cook until the egg is set and lightly browned underneath, then cover the pan with a plate and invert the omelette onto it. Slide it back into the pan to cook the other side. Repeat with the remaining mix to make two more omelettes, adding a little oil to the pan each time. Stack the omelettes onto a plate. Make three omelettes in the same way with the red pepper mixture, then stack them on a separate plate. Now make the filling. Beat the cheese to soften it, then beat in the milk to make a spreadable consistency. Stir in the herbs, salt and pepper. Line a deep, 20-23cm round cake tin with cling film (use a tin the same size as the frying pan). Select the best red pepper omelette and place in the tin, prettiest side down. Spread with a thin layer of cheese filling, then cover with a courgette omelette. Repeat, alternating the layers, until all the omelettes and filling are in the tin, finishing with an om",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 19,
@@ -564,10 +564,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"Preheat the oven to 350°. Remove the stems from one bunch of Tuscan kale and tear the leaves into 1\\\" pieces (mustard greens, collards, spinach, and chard are great, too). Coarsely chop half a head of green cabbage. Combine the greens in a large baking dish and add 4 cloves of thinly sliced garlic. Adding some sliced onions and shiitake mushrooms at this point is optional, but highly recommended (I'll sauté the onions and mushrooms in a cast iron baking dish right on the stove before adding to the greens). Coat the greens with some olive oil and pour ½ cup chicken stock or broth over everything. Cover the dish with foil and bake until the greens are wilted, about 15 minutes. Remove foil and season with salt and pepper. Continue to bake until cabbage is tender, about 20-25 minutes more.  Meanwhile, heat a little olive oil in a large skillet over medium-high. Prick four sweet Italian sausages with a fork and cook until browned on all sides and cooked through, 10 to 12 minutes. When the greens are done, slice the sausage and toss into the greens with a splash of your favorite vinegar (I like sherry or red wine).\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 20,
@@ -594,10 +594,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch.  Add the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid.  Pour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft.  Add the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:57:08",
 		"updated_at" : "2022-09-18 14:57:08",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 21,
@@ -624,10 +624,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Mix the dressing ingredients in a small bowl and season with salt and pepper. Set aside.  Cook the pasta according to the packet instructions. Add the sugar snap peas for the last minute or so of cooking time.  Meanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown. Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink.  Add the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften. Drain the pasta and sugar snaps well, then toss into the prawn mixture. Tear in the basil leaves, stir, and season with salt and pepper.  Serve with salad leaves drizzled with the lime dressing, and warm crusty bread.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 22,
@@ -654,10 +654,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Put the gammon in a very large pan with 2 litres water and bring to the boil. Remove from the heat and drain off the water – this helps to get rid of some of the saltiness. Recover with 2 litres cold water and bring to the boil again. Put everything but the frozen peas into the pan and bring to the boil. Reduce to a simmer and cook for 1½-2½ hrs, topping up the water as and when you need to, to a similar level it started at. As the ham cooks and softens, you can halve it if you want, so it is all submerged under the liquid. When the ham is tender enough to pull into shreds, it is ready. Lift out the ham, peel off and discard the skin. While it is still hot (wear a clean pair of rubber gloves), shred the meat. Remove bay from the soup and stir in the frozen peas. Simmer for 1 min, then blend until smooth. Add a splash of water if too thick, and return to the pan to heat through if it has cooled, or if you are making ahead. When you are ready to serve, mix the hot soup with most of the ham – gently reheat if made ahead. Serve in bowls with the remaining ham scattered on top, and eat with crusty bread and butter.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 23,
@@ -684,10 +684,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.  To poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.  Lightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 24,
@@ -714,10 +714,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"Pie Crust:  In a food processor, place the flour, salt, and sugar and process until combined. Add the butter and process until the mixture resembles coarse  meal (about 15 seconds). Pour 1/4 cup (60 ml) water in a slow, steady stream, through the feed tube until the dough just holds together when pinched. If necessary, add more water. Do not process more than 30 seconds. Turn the dough onto your work surface and gather into a ball. Divide the dough in half, flattening each half into a disk, cover with plastic wrap, and refrigerate for about one hour before using. This will chill the butter and relax the gluten in the flour.   After the dough has chilled sufficiently, remove one portion of the dough from the fridge and place it on a lightly floured surface.  Roll the pastry into a 12 inch (30 cm) circle. (To prevent the pastry from sticking to the counter and to ensure uniform thickness, keep lifting up and turning the pastry a quarter turn as you roll (always roll from the center of the pastry outwards).)  Fold the dough in half and gently transfer to a 9 inch (23 cm) pie pan. Brush off any excess flour and trim any overhanging pastry to an edge of 1/2 inch (1.5 cm). Refrigerate the pastry, covered with plastic wrap, while you make the filling.   Remove the second round of pastry and roll it into a 13 inch (30 cm) circle. Using a pastry wheel or pizza cutter, cut the pastry into about 3/4 inch (2 cm) strips. Place the strips of pastry on a parchment pape",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 25,
@@ -744,10 +744,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Heat oven to 200C/fan 180C/gas 6. Toss the potatoes with 2 tsp oil and some seasoning. Tip onto a large baking tray, then roast for 20 mins, stirring halfway, until crisp, golden and cooked through. Meanwhile, put eggs in a small pan of water, bring to the boil, then simmer for 8-10 mins, depending on how you like them cooked. Plunge into a bowl of cold water to cool for a few mins. Peel away the shells, then cut into halves. In a large salad bowl, whisk together the remaining oil, red wine vinegar, capers and chopped tomatoes. Season, tip in the onion, spinach, tuna and potatoes, then gently toss together. Top with the eggs, then serve straight away.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 26,
@@ -774,10 +774,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Heat the oil in a large pan and fry the leeks and courgette for 5 mins to soften. Pour in the stock, add three-quarters of the haricot beans with the green beans, half the tomatoes, and simmer for 5-8 mins until the vegetables are tender. Meanwhile, blitz the remaining beans and tomatoes, the garlic and basil in a food processor (or in a bowl with a stick blender) until smooth, then stir in the Parmesan. Stir the sauce into the soup, cook for 1 min, then ladle half into bowls or pour into a flask for a packed lunch. Chill the remainder. Will keep for a couple of days.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 27,
@@ -804,10 +804,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"Add the lamb to a casserole and cook over high heat. When browned, remove from the heat and set aside. Keep a tablespoon of fat in the casserole and discard the rest. Reduce to medium heat then add the garlic, onion and spinach and cook until the onion is translucent and the spinach wilted or about 5 minutes. Return the lamb to the casserole with the onion-spinach mixture, add the tomato puree, cumin, harissa, chicken, chickpeas, lemon juice, salt and pepper in the pan. Simmer over low heat for about 20 minutes. Add the pasta and cook for 15 minutes or until pasta is cooked.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 28,
@@ -834,10 +834,10 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Grease a 1 litre/2 pint pie dish with butter. Cut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles. Arrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas. Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread. Finish with a layer of bread, then set aside. Gently warm the milk and cream in a pan over a low heat to scalding point. Don't let it boil. Crack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale. Add the warm milk and cream mixture and stir well, then strain the custard into a bowl. Pour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes. Preheat the oven to 180C/355F/Gas 4. Place the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 29,
@@ -864,10 +864,10 @@
 		"str_ingredient19" : "  ",
 		"str_ingredient20" : "  ",
 		"instructions" : "\"Saute the onions in the 3-4 tablespoons olive oil Add the beef cubes or the chicken cutlets, sear for 3-4 min on each side Add 1 liter of water or just enough to cover the meat Cook over medium heat until the meat is done (I usually do this in the pressure cooker and press them for 5 min)  Add the frozen mulukhyia and stir until it thaws completely and then comes to a boil  In another pan add the 1/4 to 1/2 cup of olive oil and the cloves of garlic and cook over medium low heat until you can smell the garlic (don’t brown it, it will become bitter)  Add the oil and garlic to the mulukhyia and lower the heat and simmer for 5-10 minutes Add salt to taste  Serve with a generous amount of lemon juice.  You can serve it with some short grain rice or some pita bread\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	},
 	{
 		"id" : 30,
@@ -894,9 +894,9 @@
 		"str_ingredient19" : " ",
 		"str_ingredient20" : " ",
 		"instructions" : "\"Heat oven to 140C/120C fan/gas 1. Put a large ovenproof pan (with a tight-fitting lid) on a high heat. Add your fat and diced meat, cook for a few mins to seal the edges, giving it a quick stir to cook evenly. Reduce the heat to low, add the sliced onion, whole garlic cloves, carrot and fennel seeds, and cook gently to soften the veg for a few mins. Pour over the red wine vinegar, scraping any meaty bits off the bottom of the pan. Add the stock, tomato purée, and half the rosemary and parsley. Bring to the boil and simmer for 10 mins, then season, cover with a lid and put into the oven for 2 hrs, removing the lid for the final hour of cooking. Stir occasionally and add the beans with 30 mins to go. Remove the pan from the oven and heat the grill. Scatter the top with the remaining herbs and breadcrumbs, drizzle a little oil over the top, and return to the oven for 5-10 mins, until the breadcrumbs are golden. Serve with crusty bread and green veg.\"",
-		"cook_time" : null,
+		"cook_time" : "1 hour",
 		"created_at" : "2022-09-18 14:58:26",
 		"updated_at" : "2022-09-18 14:58:26",
-		"user_id" : null
+		"user_id" : 1
 	}
 ]

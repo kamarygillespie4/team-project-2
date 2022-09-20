@@ -121,6 +121,10 @@ Recipe.init(
       type: DataTypes.STRING(500),
       allowNull: true,
     },
+    user_id: {
+      type: DataTypes.STRING(500),
+      allowNull: true,
+    },
   },
   {
     // Link to database connection

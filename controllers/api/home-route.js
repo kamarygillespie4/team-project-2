@@ -12,7 +12,7 @@ router.get("/newRecipe", async (req, res) => {
 router.get("/", async (req, res) => {
   const dailyRecipe = await Recipe.findOne({
     where: {
-      id: 1,
+      id: 7,
     },
     // include: [title, image, instructions],
   });
