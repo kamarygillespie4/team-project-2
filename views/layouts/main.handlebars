@@ -11,40 +11,23 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg fixed-top">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="/"><img id="navbarLogo" src="/images/5cookskitchen.png" alt="5 Cooks Kitchen Logo"></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/login">Login</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="/recipes" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                My Recipes
-              </a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
-              </ul>
-            </li>
-            <li class="nav-item">
-              <a href="/newRecipe"><button class="navButton">Add a New Recipe</button></a>
-
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #abe3e5;">
+  <img id="navbarLogo" src="/images/5kc.jpg" alt="5 Cooks Kitchen Logo">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link " href="/">Home </a>
+      <a class="nav-item nav-link" href="/login">Login</a>
+      <a class="nav-item nav-link" href="/recipes">All Recipes</a>
+      <a class="nav-item nav-link" href="/newRecipe">Add a New Recipe!</a>
+      
+    </div>
+  </div>
+  
+</nav>
 
   <main class="container-fluid d-flex justify-content-center">
     {{{body}}}
