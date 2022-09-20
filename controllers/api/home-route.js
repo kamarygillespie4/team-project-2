@@ -10,30 +10,19 @@ router.get("/newRecipe", async (req, res) => {
 });
 
 router.get("/", async (req, res) => {
-  res.render("DailyRecipe");
-});
+  const dailyRecipe = await Recipe.findOne({
+    where: {
+      id: 1,
+    },
+    // include: [title, image, instructions],
+  });
+  console.log(dailyRecipe);
+  const recipe = dailyRecipe.get({ plain: true });
 
-// TODO:Trying to get one meal to out into the dailyRecipe section on the home page.
-// router.get("/:id", async (req, res) => {
-//   // Find a single recipe.
-//   try {
-//     const dailyRecipe = await Recipe.findOne({
-//       where: {
-//         id: req.params.id,
-//       },
-//       include: [title, image, instructions],
-//     });
-//     return {
-//       title: recipe.title,
-//       instructions: recipe.instructions,
-//       image: recipe.image,
-//     };
-//     console.log(dailyRecipe);
-//     res.status(200).json(dailyRecipe);
-//   } catch (err) {
-//     res.status(400).json(err);
-//   }
-// });
+  res.render("DailyRecipe", {
+    recipe: recipe,
+  });
+});
 
 router.get("/Recipes", async (req, res) => {
   try {

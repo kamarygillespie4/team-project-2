@@ -1,11 +1,15 @@
-<div class="loginContainer mt-4 row container-fluid d-flex  justify-content-center" style="left:0px; right 0px;">
-    <p class="">
-        {{!-- {{recipe as |recipe|}} --}}
-        <div class="card" style="width: 18rem;">
-    <img src="{{recipe.image}}" class="card-img-top" alt="...">
-    <div class="card-body">
-        <h5 class="card-title">Daily recipe</h5>
-        <p class="card-text">{{recipe.title}}</p>
+
+<div class="drcard col-8">
+    <p>
+        <h3 class="title bg-white rounded text-center p-1">Daily Recipe</h3>
+    <div class="card">
+    <div class="cardImage">
+        <img src="{{recipe.image}}" class="card-img-top recipeImage" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">{{recipe.title}}</h5>
+            <p class="card-text"></p>
+        </div>
+
     </div>
     <ul class="list-group list-group-flush">
         <li class="list-group-item">{{recipe.instructions}}</li>
@@ -16,9 +20,6 @@
                 </svg>Favorite</button>
     </div>
     </div>
-
-    <a href="#">{{recipe.instructions}}</a>
-
     </p>
 
 </div>
