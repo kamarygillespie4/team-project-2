@@ -1,10 +1,12 @@
 # 5 Cooks in the Kitchen
 
-[![Visual Studio](https://img.shields.io/badge/axios-%5E0.18.0-green.svg)](https://visualstudio.microsoft.com)
-
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
+[![Visual Studio](https://img.shields.io/badge/axios-%5E0.18.0-green.svg)](https://www.npmjs.com/package/axios) View this project on npm
+
 [![npm version](https://img.shields.io/npm/v/axios-api-versioning.svg)](https://npmjs.org/package/axios-api-versioning) View this project on npm
+
+[![npm version](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://www.npmjs.com/package/particlesjs/v/2.1.0#version-1x) View this project on npm
 
 ## Table of Contents
 
@@ -63,3 +65,29 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 ### NPM:
 
 NPM is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use NPM to manage private development as well.
+
+## Particle.js
+
+A lightweight, dependency-free and responsive javascript plugin for particle backgrounds.
+
+particles.js is created by Marc Brüderlin and released under the MIT license.
+
+Copyright © 2017 Marc Bruederlin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
