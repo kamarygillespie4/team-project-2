@@ -33,7 +33,7 @@ This application requires no installation.
 
 ## Usage
 
-In order to use this application, the user will need to log in. From here, they can create recipes to be added and view all their previously added recipes. They can also view the recipes of the day.
+In order to use this application, the user will need to log in. From here, they can create recipes to be added to their cookbook and view all their previously added recipes. They can also view a recipe of the day, in case they need some inspiration for what to cook!
 
 ## Contributors
 
@@ -55,7 +55,7 @@ This application has no testing.
 
 ## Licensing
 
-This project is not licensed.
+This application is not licensed.
 
 ## Technologies Used
 
