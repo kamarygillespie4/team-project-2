@@ -2,11 +2,11 @@
 
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
-[![Visual Studio](https://img.shields.io/badge/axios-%5E0.18.0-green.svg)](https://www.npmjs.com/package/axios) View this project on npm
+[![Visual Studio](https://img.shields.io/badge/axios-%5E0.18.0-green.svg)](https://www.npmjs.com/package/axios) 
 
-[![npm version](https://img.shields.io/npm/v/axios-api-versioning.svg)](https://npmjs.org/package/axios-api-versioning) View this project on npm
+[![npm version](https://img.shields.io/npm/v/axios-api-versioning.svg)](https://npmjs.org/package/axios-api-versioning) 
 
-[![npm version](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://www.npmjs.com/package/particlesjs/v/2.1.0#version-1x) View this project on npm
+[![npm version](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://www.npmjs.com/package/particlesjs/v/2.1.0#version-1x) 
 
 ## Table of Contents
 
@@ -25,6 +25,7 @@
 This application can be used to save recipes. By clicking the "add new recipe" button, the user will be able to add an image of their food, a title, the ingredients needed, the instructions, as well as the total cook time (in minutes) of the meal. The homepage provides a random recipe that the user will be able to save(function not working currently). In order to view the users previously added recipes, the can simply click on the button titled "my recipes".
 
 ![Deployed Application Screenshot](public/images/localhost_3001_.png)
+![Deployed Application Screenshot](public/images/app.png)
 
 ## Installation
 
@@ -32,7 +33,7 @@ This application requires no installation.
 
 ## Usage
 
-In order to use this application, the user will need to log in. From here, the can create recipes to be added and view all their previously added recipes. They can also view the recipes of the day.
+In order to use this application, the user will need to log in. From here, they can create recipes to be added to their cookbook and view all their previously added recipes. They can also view a recipe of the day, in case they need some inspiration for what to cook!
 
 ## Contributors
 
@@ -53,6 +54,10 @@ This project was created by:
 This application has no testing.
 
 ## Licensing
+
+This application is not licensed.
+
+## Technologies Used
 
 ### Axios:
 
